@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magic-gon, but you can call me Gonza!
 - 👀 I’m an industrial engineer. I work in Data Analytics, using Google Cloud Platform.
-- 💻 I work with SQL, and currently I'm learning Python and itss libraries.
+- 💻 I work with SQL, and currently I'm learning Python and its libraries.
 
 <!---
 magic-gon/magic-gon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
