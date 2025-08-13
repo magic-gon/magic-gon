@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magic-gon, but you can call me Gonza!
-- 👀 I’m an industrial engineer. I work in Data Science, using Google Cloud Platform.
-- 💻 I work with SQL, Google products and I've finished a Data Science course orientated to Python, its libraries and machine learning.
+- 👀 I’m an industrial engineer. I work in Data Science.
+- 💻 I work with SQL, Google products and DS and AI tools.
 - Linkedin: /geehernandez
 
 <!---
